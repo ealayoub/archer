@@ -1,0 +1,21 @@
+*{
+  font-family:  "Lilex Nerd Font";
+  font-weight: bold;
+  font-size: 14px;
+  color: #dcdfe1;
+}
+
+#waybar {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+
+.modules-left,
+.modules-center,
+.modules-right {
+  background-color: rgba(20, 20, 20, 0.6);
+  margin: 2px 2px 2px 2px;
+  padding: 2px 3px;
+  border-radius: 6px;
+}
